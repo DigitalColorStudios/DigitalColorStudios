@@ -1,2 +1,2 @@
-# DigitalColorStudios_Website
+# DigitalColorStudios
 Main website
